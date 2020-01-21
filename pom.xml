@@ -10,7 +10,7 @@
 
     <properties>
         <!-- Spring -->
-        <spring.version>5.1.6.RELEASE</spring.version>
+        <spring.version>5.2.0.RELEASE</spring.version>
         <spring.data.version>2.1.6.RELEASE</spring.data.version>
         <springboot.version>2.1.6.RELEASE</springboot.version>
         <wiremock.version>2.24.1</wiremock.version>
